@@ -48,6 +48,8 @@ Subtasks:
 
 ├── 📄 README.md                ← This file
 
+├── 📄 Tips.csv                ← Dataset used for analysis
+
 ├── 📘 GenAI_Data_Analysis.docx ← Word report of analysis and prompts
 
 ├── 🐍 Prashant_Yadav.ipynb     ← Python notebook with code (Task B)
